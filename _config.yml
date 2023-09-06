@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+#remote_theme: sighingnow/jekyll-gitbook
+theme: jekyll-bear-theme
 title: 💻📄🌟
 description: Alex's CV
